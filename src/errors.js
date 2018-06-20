@@ -1,0 +1,4 @@
+// Error names
+module.exports = {
+
+};
